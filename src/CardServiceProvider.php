@@ -1,6 +1,6 @@
 <?php
 
-namespace Academyex\Nova\Card\NovaSubNavCard;
+namespace AcademyEX\NovaSubNavCard;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
